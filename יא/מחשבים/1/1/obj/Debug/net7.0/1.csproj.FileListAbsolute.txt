@@ -1,0 +1,15 @@
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\bin\Debug\net7.0\1.exe
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\bin\Debug\net7.0\1.deps.json
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\bin\Debug\net7.0\1.runtimeconfig.json
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\bin\Debug\net7.0\1.dll
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\bin\Debug\net7.0\1.pdb
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\obj\Debug\net7.0\1.csproj.AssemblyReference.cache
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\obj\Debug\net7.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\obj\Debug\net7.0\1.AssemblyInfoInputs.cache
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\obj\Debug\net7.0\1.AssemblyInfo.cs
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\obj\Debug\net7.0\1.csproj.CoreCompileInputs.cache
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\obj\Debug\net7.0\1.dll
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\obj\Debug\net7.0\refint\1.dll
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\obj\Debug\net7.0\1.pdb
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\obj\Debug\net7.0\1.genruntimeconfig.cache
+C:\Users\noamb\Documents\לימודי\scool\יא\מחשבים\1\1\obj\Debug\net7.0\ref\1.dll
